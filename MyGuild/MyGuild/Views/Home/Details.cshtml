@@ -1,0 +1,23 @@
+﻿@model MyGuild.Models.User
+@{
+    ViewBag.Title = Model.Name;
+}
+<h2>Пользователь @Model.Name</h2>
+<div>
+    <dl class="dl-horizontal">
+
+        <dt>Имя</dt>
+        <dd>@Model.Name-@Model.Server</dd>
+
+        <dt>Спек</dt>
+        <dd>@Model.Specialization</dd>
+
+        <dt>Логи</dt>
+        @*<dd>@Model.Logs</dd>*@
+        <a href="@Model.Logs" target="_blank">Кликай!</a>
+
+        <dt>Доп.инфа</dt>
+        <dd>@Model.Additionalinfo</dd>
+
+    </dl>
+</div>
