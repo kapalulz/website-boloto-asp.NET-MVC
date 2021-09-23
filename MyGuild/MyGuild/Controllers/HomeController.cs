@@ -106,5 +106,10 @@ namespace MyGuild.Controllers
             return View();
         }
 
+        public IActionResult Painsmith()
+        {
+            return View();
+        }
+
     }
 }

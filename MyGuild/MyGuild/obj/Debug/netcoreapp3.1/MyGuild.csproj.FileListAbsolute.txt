@@ -278,3 +278,4 @@ D:\Desktop\respos\Test\0\MyGuild\MyGuild\bin\Debug\netcoreapp3.1\Microsoft.Entit
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\Razor\Views\Home\Painsmith.cshtml.g.cs

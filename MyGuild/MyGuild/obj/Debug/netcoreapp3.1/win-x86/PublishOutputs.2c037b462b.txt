@@ -5,8 +5,11 @@ D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\css\site.css
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\favicon.ico
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\about.jpg
+D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\ball-run.gif
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\bg.jpg
+D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\chain-spike.gif
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\frog.png
+D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\gate-to-adds.gif
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\gerenal.jpg
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\overlay.png
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\pic01.jpg
@@ -16,6 +19,8 @@ D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\shadowlands.jpg
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\shadowlands1.jpg
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\super-klass.jpg
+D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\traps.gif
+D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\images\wave-5.gif
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\js\breakpoints.min.js
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\js\browser.min.js
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\PubTmp\Out\wwwroot\js\jquery.min.js

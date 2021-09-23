@@ -167,3 +167,4 @@ D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\MyGuild
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\MyGuild.dll
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\MyGuild.pdb
 D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\MyGuild.genruntimeconfig.cache
+D:\Desktop\respos\Test\0\MyGuild\MyGuild\obj\Debug\netcoreapp3.1\win-x86\Razor\Views\Home\Painsmith.cshtml.g.cs
